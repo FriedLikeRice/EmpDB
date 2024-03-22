@@ -1,5 +1,5 @@
 {
-  "name": "employee-DB",
+  "name": "employee-db",
   "version": "1.0.0",
   "description": "Employee tracker using Node and MySQL",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FriedLikeRice/EmpDB"
+    "url": "git+https://github.com/FriedLikeRice/EmpDB.git"
   },
   "author": "Jacob Ferraro",
   "license": "ISC",
@@ -19,6 +19,11 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql2": "^3.0.0-rc.1"
-  }
+    "mysql2": "^2.2.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "keywords": []
 }

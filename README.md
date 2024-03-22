@@ -3,7 +3,7 @@
 ## Description
 Uses MySQL, Node, and Inquirer to create a back-end application that helps a manager navigate through employees in a database.
 ## Deployed Application URL
-
+https://github.com/FriedLikeRice/EmpDB?tab=readme-ov-file
 ## Screenshot
 
 ## Table of Contents
